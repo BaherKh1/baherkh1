@@ -1,60 +1,74 @@
-# 🎮 Baher Khaldi — Code Warrior | Game Tinkerer | Cloud Tactician 👾
+# 🎮 Baher Khaldi
 
-<img src="./A_digital_illustration_banner_with_a_retro_gaming_.png" alt="Welcome to My Dev Realm" width="100%" />
+**Fullstack Developer** | **DevOps Engineer** | **Game Developer**  
+Crafting scalable systems by day, building worlds by night.
+
+---
 
 ## 🧠 About Me
-```java
-FullStackDeveloper dev = new FullStackDeveloper(
-  "Java Spring Boot",
-  "React.js",
-  "AWS & DevOps",
-  "Game Engines: Unity, Unreal, Godot"
-);
-Hey there, traveler! I’m Baher Khaldi, a passionate developer blending backend wizardry, frontend finesse, cloud mastery, and game dev sorcery.
 
-With over 5 years of experience, I build powerful systems that scale, immersive worlds that engage, and pipelines that just work™️.
-⚔️ Arsenal
-💻 Fullstack & DevOps
-⚙️ Java, Spring Boot, Spring Security
+Hi! I’m Baher — a passionate developer blending backend logic, frontend creativity, cloud automation, and immersive game design.
 
-⚛️ React.js, TypeScript, TailwindCSS
+I specialize in:
 
-☁️ AWS (EC2, RDS, S3, Lambda), Docker, GitHub Actions
+- ⚙️ Java Spring Boot & React.js fullstack development  
+- ☁️ Cloud architecture & deployment (AWS, Docker, CI/CD)  
+- 🎮 Game development using Unity, Unreal Engine & Godot  
 
-🛠️ CI/CD | Monitoring | Infrastructure as Code
+I thrive on building things that are efficient, reliable, and fun to use — from enterprise APIs to pixelated adventures.
 
-🕹️ Game Development
-🎮 Unity (C#), Unreal Engine (Blueprints + C++), Godot (GDScript)
+---
 
-🌐 Multiplayer (Photon, Mirror, Steamworks)
+## ⚔️ Tech Arsenal
 
-🎨 3D Assets, Physics, AI, Game Loops, Shaders
+| Fullstack Development     | DevOps / Cloud          | Game Development                   |
+|---------------------------|-------------------------|-------------------------------------|
+| Java, Spring Boot         | AWS (EC2, RDS, S3)      | Unity (C#), Unreal (Blueprint/C++)  |
+| React, Tailwind, TypeScript | Docker, GitHub Actions | Godot (GDScript)                    |
+| REST APIs, Security       | CI/CD, Infra as Code    | Multiplayer, Game Loops, AI        |
 
-🗺️ Currently Exploring
-🧪 AI-powered Dev Tools & Assistants
+---
 
-🌍 WebGL & Browser-Based Game Frameworks
+## 🚀 Current Interests
 
-🔧 Full Infra as Code with Terraform
+- 🤖 AI-powered developer tools  
+- 🌐 WebGL & browser-based games  
+- 🧩 Open source gameplay systems  
+- 🔧 Full Infrastructure-as-Code with Terraform  
 
-🧠 Open Source AI Integration with Gameplay
+---
 
-🧩 Projects
-Project	Description	Link
-🧠 AI Code Explainer	Understand complex Java code instantly using AI	🔗 Visit
-🕹️ Indie RPG Engine	Custom RPG mechanics built in Unity & Godot	Coming Soon
-🚀 DevOps Boilerplate	Starter for scalable Spring Boot + React apps with CI/CD	In Progress
+## 🧩 Featured Projects
 
-💬 Connect With Me
-$ whoami
-> FullstackDev_Gamer_CloudGuy
+### 🧠 AI Code Explainer  
+Explain complex code using Google Gemini API.  
+🌐 [Live Demo](https://aicodeexplainer-production.up.railway.app/)
 
-🧠 LinkedIn
+### 🕹 Indie RPG Engine  
+Custom RPG mechanics & world systems built with Unity & Godot.  
+🛠 *Coming soon*
 
-💻 GitHub
+### 🚀 DevOps Boilerplate  
+Production-ready Spring Boot + React stack with CI/CD pipeline.  
+⚙️ *In progress*
 
-✉️ baherkhaldi.dev [at] gmail [dot] com
+---
 
-“Press Start to Build. Pause to Debug. Respawn as Many Times as Needed.”
+## 📈 GitHub Stats
 
-🕹️ #KeepCoding & #KeepPlaying
+![Baher’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=baherkh1&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baherkh1&layout=compact&theme=tokyonight)
+
+---
+
+## 💬 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/baherkhaldi)  
+- 💻 [GitHub](https://github.com/baherkh1)  
+- 📧 baherkhaldi.dev [at] gmail [dot] com
+
+---
+
+_“Press Start to Build. Pause to Debug. Respawn as Many Times as Needed.”_
+
+🕹️ `#KeepCoding` & `#KeepPlaying`
