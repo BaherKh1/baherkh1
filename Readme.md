@@ -63,7 +63,7 @@ Production-ready Spring Boot + React stack with CI/CD pipeline.
 
 ## 💬 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/baherkhaldi)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/baherkh1/))  
 - 💻 [GitHub](https://github.com/baherkh1)  
 - 📧 baherkhaldi.dev [at] gmail [dot] com
 
