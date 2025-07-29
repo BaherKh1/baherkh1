@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://64.media.tumblr.com/1a30eec5a7f81e7c61cf705ae4b86c0d/ae0f63abb9c7a983-c8/s250x400/cfcccad3edd9cd1e36ec7845945356568117c3fa.gifv" width="200">
+</p>
 # 🎮 Baher Khaldi
 
 **Fullstack Developer** | **DevOps Engineer** | **Game Developer**  
@@ -28,10 +31,6 @@ I thrive on building things that are efficient, reliable, and fun to use — fro
 | REST APIs, Security       | CI/CD, Infra as Code    | Multiplayer, Game Loops, AI        |
 
 ---
-
-<p align="center">
-  <img src="https://64.media.tumblr.com/1a30eec5a7f81e7c61cf705ae4b86c0d/ae0f63abb9c7a983-c8/s250x400/cfcccad3edd9cd1e36ec7845945356568117c3fa.gifv" width="200">
-</p>
 
 ## 🚀 Current Interests
 
