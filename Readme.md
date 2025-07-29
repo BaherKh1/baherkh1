@@ -19,14 +19,6 @@ I thrive on building things that are efficient, reliable, and fun to use — fro
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BaherKh1/BaherKh1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BaherKh1/BaherKh1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BaherKh1/BaherKh1/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 ## ⚔️ Tech Arsenal
 
 | Fullstack Development     | DevOps / Cloud          | Game Development                   |
