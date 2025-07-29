@@ -11,7 +11,7 @@ Crafting scalable systems by day, building worlds by night.
 
 ## 🧠 About Me
 
-Hi! I’m Baher — a passionate developer blending backend logic, frontend creativity, cloud automation, and immersive game design.
+Hey there, traveler! I’m Baher, a passionate developer blending backend wizardry, frontend finesse, cloud mastery, and game dev sorcery.
 
 I specialize in:
 
