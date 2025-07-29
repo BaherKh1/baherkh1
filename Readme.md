@@ -1,4 +1,4 @@
-![MasterHead]([https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fcoder-nian&psig=AOvVaw0LhwpAwQIb3O-Z-CRfZlI7&ust=1753873663912000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjykYLX9uGOAxWndfEDHb-JKYAQjRx6BAgAEBk))
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <div align="center">
 
